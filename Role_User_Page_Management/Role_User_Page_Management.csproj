@@ -7204,9 +7204,6 @@
     <Compile Include="userLogin.aspx.designer.cs">
       <DependentUpon>userLogin.aspx</DependentUpon>
     </Compile>
-    <Content Include="App_Code\DataConnector.cs" />
-    <Content Include="App_Code\DataLoader.cs" />
-    <Content Include="App_Code\Validator.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
